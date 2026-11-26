@@ -228,27 +228,7 @@
           journal: "Microbiology Spectrum, 2026, 14, e02868-25."
           url: "https://doi.org/10.1128/spectrum.02868-25"
   highlight: 0
-
-- name: M.Sc. Pascal-Marcel Geisler
-  photo: pascal.png
-  info: "Graduate Student (PhD)"
-  description: " "
-  email: "pascal.geisler@ime.fraunhofer.de"
-  orcid: 
-  researchgate: 
-  linkedin: hhttps://www.linkedin.com/in/pascal-geisler-946764218/
-  group: phd
-  project_title: "Design of RNAi-based pest control strategies using dsRNA lipid nanoparticle formulations. Project in collaboration with Dr. Christoph Hellmann at Fraunhofer IME."
-  joined: "2021"
-  number_educ: 2
-  education1: "B.Sc. in Chemistry, University of Tübingen"
-  education2: "M.Sc. in Chemistry, University of Tübingen"
-  papers:
-        - title: "Microfluidic process-property correlations of dsRNA lipid nanoparticle formulations"
-          journal: "Scientific Reports, 2026, 16, 9653"
-          url: "https://doi.org/10.1038/s41598-026-44095-2"
-  highlight: 0
-  
+ 
 - name: M.Sc. Felix Mühlemeyer
   photo: felix.jpeg
   info: "Graduate Student (PhD)"
@@ -315,8 +295,8 @@
   project_title: "XXX Darobactin"
   joined: "2023"
   number_educ: 2
-  education1: "B.Sc. in Pharmacy, Sun Yat-sen University, China"
-  education2: "M.Sc. in Pharmacy, Sun Yat-sen University, China"
+  education1: " "
+  education2: " "
   papers: []
   highlight: 0
 
@@ -370,6 +350,24 @@
   education2: "M.Sc. in Molecular Biology, Justus Liebig University of Giessen"
   papers: []
   highlight: 0
+
+  - name: M.Sc. Rodolfo Miranda 
+  photo: 
+  info: "Graduate Student (PhD)"
+  description: " "
+  email: " "
+  orcid: 
+  researchgate: 
+  linkedin: 
+  group: phd
+  project_title: " "
+  joined: "2026"
+  number_educ: 2
+  education1: "B.Sc. in Chemistry, Nuevo Leon National University, Mexico"
+  education2: "M.Sc. in Biotechnology, Autonomous National University of Mexico, Mexico"
+  papers: []
+  highlight: 0
+
 
 # ── Master Students ───────────────────────────────────────────
 
