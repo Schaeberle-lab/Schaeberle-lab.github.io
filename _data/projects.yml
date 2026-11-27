@@ -20,26 +20,52 @@
   image: ""
   url: "https://www.ime.fraunhofer.de/en/Research_Divisions/bioresources/Our_projects/a-platform-for-the-discovery-of-anthelmintic-and-antischistosoma.html"
 
-
 - name: "Beta-Lactam Antibiotic Recovery"
-  description: "Research into restoring beta-lactam antibiotic activity against multidrug-resistant Gram-negative bacteria."
-  url: ""
+  full_title: "Biosynthesis and Antimicrobial Activity Investigation of Sulfonated Monobactams and Derivatives from Bacteroidetes"
+  description: "Discovery and characterization of sulfonated monobactams from Bacteroidetes through genome mining, microbial fermentation and chemical analysis, aiming to develop new compounds against multidrug-resistant Gram-negative bacteria."
+  funding: "China Scholarship Council (CSC)"
+  duration: ""
+  researcher: "Chaoyi Hu"
+  supervisors:
+    - "Prof. Dr. Till Schäberle"
+    - "Dr. Marius Spohn"
+  institutions:
+    - "Justus Liebig University Giessen"
+    - "Fraunhofer IME"
+  image: ""
+  url: "https://www.ime.fraunhofer.de/en/Research_Divisions/bioresources/Our_projects/biosynthesis-and-antimicrobial-activity-investigation-of-sulfona.html"
 
 - name: "BioFLOW"
-  description: "Development of a microfluidic platform for biofilm research and antimicrobial screening under in vivo-mimicking conditions."
+  full_title: "Development of a Microfluidic In Vivo Mimicking Assay to Facilitate Bacterial Biofilm Research"
+  description: "Development of a microfluidic platform that mimics natural flow conditions to investigate bacterial biofilm formation, evaluate antimicrobial compounds, and monitor biofilm treatment and regrowth, with a particular focus on Xylella fastidiosa."
+  funding: "Postgraduate Scholarship of Justus Liebig University Giessen"
+  duration: "4 years"
+  researcher: "Flaviana Chrysanthia Susanto"
+  supervisors:
+    - "Prof. Dr. Till Schäberle"
+    - "Dr. Michael Marner"
+  institutions:
+    - "Justus Liebig University Giessen"
+    - "Fraunhofer IME"
+  image: ""
   url: "https://www.ime.fraunhofer.de/en/Research_Divisions/bioresources/Our_projects/development-of-a-microfluidic-in-vivo-mimicking-assay-to-facilit.html"
 
 - name: "MbioShrimp"
-  description: "Development of bio-based substances to prevent postharvest melanosis in organically produced shrimp."
+  full_title: "Bio-Based Substances for the Prevention of Melanosis in Certified Organic Shrimp"
+  description: "Development of natural products derived from fungi and plants to prevent post-mortem melanosis in shrimp. The project combines natural product discovery, polyphenol oxidase inhibition, fermentation optimization, compound isolation, and application trials to identify sustainable alternatives to conventional antimelanotic treatments."
+  funding: "BMFTR - Ideas Competition: New Products for the Bioeconomy"
+  duration: "December 2021 - December 2025"
+  researcher: "Nicolas Reyes Castillo (associated doctoral project)"
+  supervisors:
+    - "Prof. Dr. Till Schäberle"
+    - "Dr. Marius Spohn"
+  institutions:
+    - "Fraunhofer IME"
+    - "Justus Liebig University Giessen"
+    - "Naturland e.V."
+  image: ""
   url: "https://www.ime.fraunhofer.de/en/Research_Divisions/bioresources/Our_projects/MbioShrimp.html"
 
-- name: "Natural Products - Post-Mortem Melanosis"
-  description: "Investigation of natural products as sustainable solutions for mitigating post-mortem melanosis in shrimp aquaculture."
-  url: "https://www.ime.fraunhofer.de/en/Research_Divisions/bioresources/Our_projects/natural-products--a-bio-based-approach-to-mitigate-post-mortem-m.html"
-
-- name: "OekoReproShrimp"
-  description: "Development of sustainable methods for the reproduction and larval rearing of Penaeus monodon under European organic aquaculture requirements."
-  url: "https://www.ime.fraunhofer.de/en/Research_Divisions/bioresources/Our_projects/ecological-reproduction-of-shrimps--oekoreproshrimp.html"
 
 - name: "ProBioControl"
   description: "Metabolic profiling of antifungal bacteria and investigation of microbial natural products for biological control applications."
