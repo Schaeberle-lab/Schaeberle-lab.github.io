@@ -84,6 +84,19 @@ main figcaption {
   display: flex;
   flex-wrap: wrap;
 }
+/* Publication highlights */
+#gridid .publication-highlight .pub-image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  max-height: 220px;
+  object-fit: contain;
+  margin: 16px auto;
+  float: none;
+}
+
+
+
 
 #gridid .col-sm-4,
 #gridid .col-sm-6,
