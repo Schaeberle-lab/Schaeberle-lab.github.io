@@ -24,9 +24,13 @@ permalink: /publications/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well publication-highlight">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img
+  src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}"
+  class="img-responsive pub-image"
+  alt="Figure for {{ publi.title | escape }}"
+  />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
