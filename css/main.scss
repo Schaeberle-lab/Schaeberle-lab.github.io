@@ -108,11 +108,13 @@ main figcaption {
 .master-grid {
   grid-template-columns: repeat(auto-fit, minmax(200px, 200px));
   justify-content: start;
+  align-items: start;
   gap: 16px;
 }
 
-.master-card {
-  padding: 10px;
+#gridid .master-grid .master-card {
+  min-height: 0;
+  padding: 14px 18px;
 }
 
 #homeid img {
