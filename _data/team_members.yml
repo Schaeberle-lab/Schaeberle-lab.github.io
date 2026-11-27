@@ -190,7 +190,7 @@
 
 # ── Project Scientist ─────────────────────────────────────────
 
-- name: M.Sc. Winda A. Soerjawinata
+- name: Dr. Winda A. Soerjawinata
   photo: winda.jpg
   info: "Project Scientist"
   description: " "
@@ -204,7 +204,7 @@
   number_educ: 3
   education1: "M.Sc. in Biotechnology, University Surabaya (UBAYA), Indonesia"
   education2: "M.Sc. in Food Microbiology and Biotechnology, University of Hohenheim"
-  education3: "Ph.D. (Currently), Trier University of Applied Sciences - TU Kaiserslautern"
+  education3: "Ph.D. in Bioprocess Engineering, Trier University of Applied Sciences - TU Kaiserslautern"
   highlight: 0
 
 # ── Graduate Students (PhDs) ──────────────────────────────────
@@ -361,20 +361,20 @@
   papers: []
   highlight: 0
 
-- name: M.Sc. Rodolfo Miranda 
+- name: M.Sc. Rodolfo Miranda Espino
   photo: 
   info: "Graduate Student (PhD)"
   description: " "
-  email: " "
+  email: "rodolfo.miranda.espino@stud.uni-giessen.de"
   orcid: 
   researchgate: 
   linkedin: 
   group: phd
-  project_title: " "
+  project_title: "New globomycin analogs in combination with adjuvants to combat rising antimicrobial resistance in Enterobacteriaceae"
   joined: "2026"
   number_educ: 2
-  education1: "B.Sc. in Chemistry, Nuevo Leon National University, Mexico"
-  education2: "M.Sc. in Biotechnology, Autonomous National University of Mexico, Mexico"
+  education1: "B.Sc. in Pharmaceutical and Biological Chemistry, Autonomous University of Nuevo Leon, Mexico"
+  education2: "M.Sc. in Biochemistry and Molecular Biology, National Autonomous University of Mexico, Mexico"
   papers: []
   highlight: 0
 
