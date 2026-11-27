@@ -380,29 +380,42 @@
 
 
 # ── Master Students ───────────────────────────────────────────
-
-- name: B.Sc. Najmul Alam
+- name: B.Sc. Akhila Muralidharan
   photo: dummy.jpg
   info: "Master Student"
   email: "najmul.alam@ib.uni-giessen.de"
   group: master
   highlight: 0
 
-- name: B.Sc. Ribina Mundeth Abdul Kareem
+- name: B.Sc. Amin Sifat
   photo: dummy.jpg
   info: "Master Student"
-  email: " Ribina.Mundeth.Abdul.Kareem@ib.uni-giessen.de"
+  email: "najmul.alam@ib.uni-giessen.de"
   group: master
   highlight: 0
 
 - name: B.Sc. Jomol Jose
   photo: dummy.jpg
   info: "Master Student"
+  email: " Ribina.Mundeth.Abdul.Kareem@ib.uni-giessen.de"
+  group: master
+  highlight: 0
+
+- name: B.Sc. Abhijit Kumar Singha
+  photo: dummy.jpg
+  info: "Master Student"
   email: " "
   group: master
   highlight: 0
 
-- name: B.Sc. Roshni Chetri
+- name: B.Sc. Farhanul Islam
+  photo: dummy.jpg
+  info: "Master Student"
+  email: " "
+  group: master
+  highlight: 0
+
+- name: B.Sc. Meriem Abdelwahab El Idrissi
   photo: dummy.jpg
   info: "Master Student"
   email: " "
