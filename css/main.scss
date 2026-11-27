@@ -95,6 +95,52 @@ main figcaption {
   float: none;
 }
 
+/* Equal-height publication cards */
+
+#gridid .row > .col-sm-6 {
+  display: flex;
+  align-items: stretch;
+}
+
+#gridid .publication-highlight {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  width: 100%;
+  margin-bottom: 0;
+}
+
+/* Align publication titles */
+
+#gridid .publication-highlight pubtit {
+  display: block;
+  min-height: 72px;
+  line-height: 1.45;
+  margin-bottom: 12px;
+}
+
+/* Consistent image area */
+
+#gridid .publication-highlight .pub-image {
+  width: 100%;
+  height: 220px;
+  max-height: 220px;
+  object-fit: contain;
+  margin: 12px auto 18px;
+}
+
+/* Mobile layout */
+
+@media (max-width: 767px) {
+  #gridid .publication-highlight pubtit {
+    min-height: 0;
+  }
+
+  #gridid .publication-highlight {
+    margin-bottom: 18px;
+  }
+}
+
 
 
 
