@@ -9,16 +9,6 @@
 
 # ── 2026 ─────────────────────────────────────────────────────
 
-- title: "Tryptophan-Driven Metabolomic Shift in Acidobacteriaceae Reveals Phytohormones and Antifungal Metabolites"
-  year: 2026
-  image: dummy.png
-  description: ""
-  authors: "Zumkeller CM, Hartwig C, Lanzalonga W, Patras MA, Liu Y, Marner M, Mihajlovic S, Spohn MS*, Schäberle TF*"
-  link:
-    url: "https://doi.org/10.1101/2025.10.02.680145"
-    display: "Preprint, bioRxiv (2026)"
-  highlight: 0
-
 - title: "Nanoliter-scale selection of optimized bioengineered peptide antibiotics that rescue mice with bacterial lung infection"
   year: 2026
   image: dummy.png
@@ -29,14 +19,104 @@
     display: "Preprint, bioRxiv (2026)"
   highlight: 0
 
+- title: "Natural and Biobased Anti-Melanosis Strategies for Penaeid Shrimp: A Scoping Review of Mechanistic and Product-Level Validation"
+  year: 2026
+  image: dummy.png
+  description: ""
+  authors: "Reyes Castillo N, Holler S, Birk F, Bernard E, Schäberle TF*, Spohn MS*"
+  link:
+    url: " "
+    display: "Accepted Compr. Rev. Food Sci. Food Saf., 2026"
+  highlight: 0
+  
+- title: "Iron-Dependent Siderophore Production via NRPS-Independent Pathways in Pedobacter"
+  year: 2026
+  image: dummy.png
+  description: ""
+  authors: "Hu C, Zumkeller CM, Liu Y*, Schäberle TF*, Spohn MS*"
+  link:
+    url: "https://doi.org/10.1093/mtomcs/mfag035"
+    display: "Metallomics, mfag035"
+  highlight: 0
+
+- title: "Biopesticidal potential and fermentation media optimization of Epicoccum sp. strain BPF3, an endophytic fungus isolated from Bethencourtia palmensis"
+  year: 2026
+  image: dummy.png
+  description: ""
+  authors: "López-Menchero JR, Díaz CE*, Reyes Castillo N, Imperial J, López-Pérez JL, Schäberle TF, Andrés MF, González-Coloma A*"
+  link:
+    url: " https://doi.org/10.3390/jof12110848"
+    display: "J. Fungi 2026, 12(11), 848"
+  highlight: 0
+
+- title: "Bioactivity profiling of linear venom peptides from Italian small wood-scorpion (Euscorpius italicus)"
+  year: 2026
+  image: dummy.png
+  description: ""
+  authors: "Pierry M*, Dersch L, Krämer J, Schulte L, Avella I, Kessel T, Hardes K, Marner M, Grotmann J, Seip M, Schäberle TF, Lüddecke T*"
+  link:
+    url: "https://doi.org/10.1002/ps.71416"
+    display: "Pest Management Science, 2026, "
+  highlight: 0
+
+- title: "Tryptophan-Driven Metabolomic Shift in Acidobacteriaceae Reveals Phytohormones and Antifungal Metabolites"
+  year: 2026
+  image: dummy.png
+  description: ""
+  authors: "Zumkeller CM, Hartwig C, Lanzalonga W, Patras MA, Liu Y, Marner M, Mihajlovic S, Spohn MS*, Schäberle TF*"
+  link:
+    url: "https://doi.org/10.1128/msystems.00828-26"
+    display: "mSystems, 2026, 11(10), e00828-26."
+  highlight: 0
+
+- title: "Re-investigation of the HExxH enzyme DarF reveals a dehydrogenation–epoxidation reaction"
+  year: 2026
+  image: dummy.png
+  description: ""
+  authors: "Haedar JR, Böhringer N, Kumari GS, Kiselov V, Romanuks V, Smits G, Donadio S, Schäberle TF, Phan C-S*"
+  link:
+    url: "https://doi.org/10.1039/d6ob00496b"
+    display: "Org. Biomol. Chem. (2026) 24 (22): 4583–4587."
+  highlight: 0
+
+- title: "Strevertene A, a Streptomyces-Derived Macrolide, Reveals Selective Activity against the Human Parasite Schistosoma mansoni"
+  year: 2026
+  image: dummy.png
+  description: ""
+  authors: "Mühlemeyer F, Liu Y, Zumkeller CM, Moreira BP, Magari F, Hardes K, Grevelding CG, Spohn M, Haeberlein S, Schäberle TF*, Marner M*"
+  link:
+    url: "https://doi.org/10.1021/acsomega.6c02864"
+    display: "ACS Omega (2026) 11 (22): 33061–33071."
+  highlight: 0
+
+- title: "Comparative Untargeted LC-HRMS-Based Metabolomic Profiling of Gracilaria edulis (Gracilariales, Rhodophyta) from Three Different Beaches Using Sequential Solvent Extraction"
+  year: 2026
+  image: dummy.png
+  description: ""
+  authors: "Fitria Nurul Alfiah, Riyanti, Syakuri H, Sanjayasari D, Riviani, Schäberle TF, Patras MA, Harwanto D, Choi J-S*, Nur Meinita MD*"
+  link:
+    url: " https://doi.org/10.3390/jmse14070672"
+    display: "J. Mar. Sci. Eng. 2026, 14(7), 672"
+  highlight: 0
+
+- title: "LC-HRMS-Based Metabolomic Profiling and Antioxidant Activity of Sargassum ilicifolium Under Different Pretreatments, Extraction Methods, and Solvents"
+  year: 2026
+  image: dummy.png
+  description: ""
+  authors: "Harfiyani AD, Riyanti, Nursid M, Schäberle TF, Patras MA, Choi J-S*, Nur Meinita MD*"
+  link:
+    url: "https://doi.org/10.3390/antiox15040433"
+    display: "Antioxidants 2026, 15(4), 433"
+  highlight: 0
+
 - title: "Design of dsRNA lipid nanoparticle formulations for RNAi-mediated pest control"
   year: 2026
   image: dummy.png
   description: ""
   authors: "Geisler P, Knorr E, Steiniger F, Levin A, Hartwig C, Schäberle TF, Vilcinskas A, Hellmann C*"
   link:
-    url: "#"
-    display: "Scientific Reports (2026, accepted)"
+    url: "https://doi.org/10.1038/s41598-026-44095-2"
+    display: "Scientific Reports 16, 9653 (2026)."
   highlight: 0
 
 - title: "Biodiversity affects the exometabolomes of four benthic functional groups in coral reefs"
@@ -76,7 +156,7 @@
   authors: "Susanto F, Wuisan ZG, Spohn M, Schäberle TF*, Marner M*"
   link:
     url: "https://doi.org/10.1128/spectrum.02868-25"
-    display: "Microbiology Spectrum (2026, online first)"
+    display: "Microbiology Spectrum 14:e02868-25."
   highlight: 0
 
 # ── 2025 ─────────────────────────────────────────────────────
