@@ -3,9 +3,23 @@
 # Projects are listed alphabetically.
 # Source: Fraunhofer IME, Natural Product Department.
 
+
 - name: "AnthelNatProd"
-  description: "Discovery of microbial natural products with anthelmintic and antischistosomal activity."
+  full_title: "A Platform for the Discovery of Anthelmintic and Antischistosomal Microbial Natural Products"
+  description: "Discovery of bioactive microbial natural products against parasitic helminths using Caenorhabditis elegans for primary screening and Schistosoma mansoni for activity confirmation."
+  funding: "Postgraduate Scholarship of Justus Liebig University Giessen"
+  duration: "3 years"
+  researcher: "Felix Mühlemeyer"
+  supervisors:
+    - "Prof. Dr. Till Schäberle"
+    - "Dr. Michael Marner"
+    - "PD Dr. Simone Häberlein"
+  institutions:
+    - "Justus Liebig University Giessen"
+    - "Fraunhofer IME"
+  image: ""
   url: "https://www.ime.fraunhofer.de/en/Research_Divisions/bioresources/Our_projects/a-platform-for-the-discovery-of-anthelmintic-and-antischistosoma.html"
+
 
 - name: "Beta-Lactam Antibiotic Recovery"
   description: "Research into restoring beta-lactam antibiotic activity against multidrug-resistant Gram-negative bacteria."
