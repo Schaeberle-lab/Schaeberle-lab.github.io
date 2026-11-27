@@ -243,7 +243,10 @@
   number_educ: 2
   education1: "B.Sc. in Nutrition Sciences, Justus Liebig University of Giessen" 
   education2: "M.Sc. in nutrition Sciences, Justus Liebig University of Giessen"
-  papers: []
+  papers: 
+        - title: "Strevertene A, a Streptomyces-Derived Macrolide, Reveals Selective Activity against the Human Parasite Schistosoma mansoni"
+          journal: "ACS Omega (2026) 11 (22): 33061–33071."
+          url: "https://doi.org/10.1021/acsomega.6c02864"
   highlight: 0
 
 - name: M.Sc. Joana A. Bauer-Klotz
@@ -314,7 +317,10 @@
   number_educ: 2
   education1: "B.Sc. in Pharmacy, Hubei University of Chinese Medicine, China"
   education2: "M.Sc. in Pharmacy, Hubei University of Chinese Medicine, China"
-  papers: []
+  papers: 
+        - title: "Iron-Dependent Siderophore Production via NRPS-Independent Pathways in Pedobacter"
+          journal: "Metallomics, 2026, mfag035."
+          url: "https://doi.org/10.1093/mtomcs/mfag035"
   highlight: 0
 
 - name: M.Sc. Alexander C. Kinner
